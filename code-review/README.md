@@ -6,13 +6,13 @@
 
 ## Foreword
 
-This document is not intended to have all it's content used all the time. Take excerpts from it on each code review you perform to develop a thorough culture on your team. In full, this document is also helpful to set proper expectations for new members of your team.
+I intend code review templates to have only some of their content used all the time. At first, using unabridged templates to set expectations for new teams and team members is helpful. But in time, you will see consistency on specific items and only need to focus on things your team struggles with.
 
-👉 _Notes to the reviewer are italicized and marked by emojis, and are not intended for the receiving audience. I recommend removing them before publishing._
+> 👉 _Comments to the reviewer on templates are annotated._
 
-Checkboxes are pre-marked to save you time. Ideally, most items will be addressed by change request authors, so it _should_ be less work to uncheck items, rather than check them.
+Checkboxes are pre-marked to save you time. Ideally, change request authors will address most entries, so it _should_ be less work for the reviewer to uncheck them.
 
-Overtime, the goal of this document is to not be used at all. In the fullness of times, a "LGTM" will be all you need. On that note, here is a quote that captures the spirit of this document:
+One day, it will become unnecessary for you to publish templates on change requests; they will transition to a companion to your code review. In the fullness of times, an "LGTM" will be all you need to publish. On that note, here is a quote that captures the spirit of the templates:
 
  ### [End the debate once and for all. Do writing the objectives on the board do anything?](https://www.reddit.com/r/Teachers/comments/10vq3sn/end_the_debate_once_and_for_all_do_writing_the/j7iz4g1/?context=3)
 
