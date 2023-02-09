@@ -3,8 +3,6 @@
 Authored by Malcolm Burtenshaw  
 Version 1.0.0
 
-_Want to contribute? Email me at mjburtenshaw@gmail.com_
-
 ---
 
 ## Change Request Health
