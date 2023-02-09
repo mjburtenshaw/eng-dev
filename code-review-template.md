@@ -1,7 +1,6 @@
 # Code Review Template
   
-Authored by Malcolm Burtenshaw  
-Version 1.0.0
+Authored by Malcolm Burtenshaw
 
 ---
 
