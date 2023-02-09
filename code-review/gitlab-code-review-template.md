@@ -1,3 +1,13 @@
+[> 💡 Legend definitions.]: #
+[> 🔴 Major issues trigger a code review halt and status regression.]: #
+[> 🟡 Minor issues trigger discussion.]: #
+[> 🟢 Excellent work should be recognized and celebrated!]: #
+
+Reviewer notes are annotated using the following legend:
+> 🔴 Major issues  
+> 🟡 Minor issues  
+> 🟢 Excellent work  
+
 ## Merge Request Health
 
 - [x] **Target:** The merge request targets the desired branch.
@@ -84,3 +94,7 @@
 [> 🛑 _Reproduce issues at least once on a development server._]: #
 
 [> 🛑 _Reproduce desired behaviors on a development server after every major push to the remote._]: #
+
+- [x] The solution produces the desired behavior.
+
+    [> 🚨 _Paste unfulfilled requirements here._]: #
