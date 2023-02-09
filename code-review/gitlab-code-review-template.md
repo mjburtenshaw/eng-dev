@@ -4,16 +4,21 @@
 - [x] **Title:** The title is appropriate.
 - [x] **Template:** The template is appropriate or an exception is provided.
 - [x] **Description:** The description is complete.
-
-    [> 🔰 _e.g., a newly onboarded Junior Developer would need to ask little questions._]: #
-
     - [x] GitLab hooks are populated.
     - [x] Applicable Tasks are linked.
     - [x] Links to Tasks use the Task Title as their text.
     - [x] Links in general are formatted to be human readable.
     - [x] Checklist items are marked or provided an exception.
     - [x] All questions are answered appropriately.
-    - [x] Little assumptions are made as to the knowledge of the reviewer.
+    - [x] **Validation:** Validation details are provided.
+
+        [> 🔰 A newly onboarded Junior Developer would need to ask little questions._]: #
+
+        - [x] Little assumptions are made as to the knowledge of the reviewer. 
+        - [x] Details when to expect to observe desired behaviors.
+        - [x] Details when to expect to observe current behaviors.
+        - [x] Details the way the end-user would validate the solution.
+        - [x] For specific bugs, Details how to reproduce issues using the same data (or as close to it as possible) as production.
 - [x] **Metadata:** No anomalies detected.
     - [x] Assignee.
     - [x] Reviewer.
@@ -79,10 +84,3 @@
 [> 🛑 _Reproduce issues at least once on a development server._]: #
 
 [> 🛑 _Reproduce desired behaviors on a development server after every major push to the remote._]: #
-
-- [x] Validation details are provided.
-- [x] Validation details when to expect to observe desired behaviors.
-- [x] Validation details when to expect to observe current behaviors.
-- [x] Validation is set up the way the end-user would validate the solution.
-- [x] Little assumptions are made as to the knowledge of the reviewer.
-- [x] For specific bugs, validation details how to reproduce issues using the same data (or as close to it as possible) as production?
