@@ -2,12 +2,10 @@
 
 [> 💡 _Write a summary of your review here._]: #
 
-
 [> 💡 _Legend definitions._]: #
 [> 🔴 _Major issues trigger a code review halt and status regression._]: #
 [> 🟡 _Minor issues trigger discussion._]: #
 [> 🟢 _Excellent work should be recognized and celebrated!_]: #
-
 Reviewers annotate their notes using the following legend:  
 > 🔴 Major issues  
 > 🟡 Minor issues  
@@ -16,8 +14,11 @@ Reviewers annotate their notes using the following legend:
 ## Merge Request Health
 
 - [x] **Target:** The merge request targets the desired branch.
+
 - [x] **Title:** The title is appropriate.
+
 - [x] **Template:** The template is appropriate, or an exception is provided.
+
 - [x] **Description:** The description is complete.
     - [x] GitLab hooks are populated.
     - [x] Applicable Tasks are linked.
@@ -25,6 +26,7 @@ Reviewers annotate their notes using the following legend:
     - [x] Links, in general, are formatted to be human-readable.
     - [x] Checklist items are marked or provided an exception.
     - [x] All questions are answered appropriately.
+
 - [x] **Validation:** Validation details are provided.
 
     [> 🔰 A newly onboarded Junior Developer would need to ask little questions._]: #
@@ -34,12 +36,14 @@ Reviewers annotate their notes using the following legend:
     - [x] Details when to expect to observe current behaviors.
     - [x] Details the way the end-user would validate the solution.
     - [x] Details on reproducing issues using the same data as production (or as close to it as possible) for specific bugs.
+
 - [x] **Metadata:** No anomalies detected.
     - [x] Assignee.
     - [x] Reviewer.
     - [x] Milestone.
     - [x] Labels.
     - [x] Merge options.
+
 - [x] **Pipelines:** No anomalies detected.
 
     [> 💡 _A good development strategy runs integration tests locally before creating a merge request._]: #
@@ -53,7 +57,9 @@ Reviewers annotate their notes using the following legend:
     - [x] The latest pipeline cleanly passes all jobs.
     - [x] The number of pipelines leans towards a minimum.
     - [x] The number of commits per pipeline leans towards a maximum.
+
 - [x] **Readiness:** The changes can be merged.
+
 - [x] **Activity:** No anomalies detected.
     - [x] The merge request was created in draft status.
     - [x] The merge request was in draft status during subsequent pushes.
@@ -69,6 +75,7 @@ Reviewers annotate their notes using the following legend:
     - [x] Commit changes are small.
     - [x] Commit messages are informative.
     - [x] Documentation is changed in the same commit as associated functional changes.
+
 - [x] **Best Practices:** The code doesn't smell.
 
     [> 🏫 _Smelly code indicates the developer didn't review the final diffs before creating the merge request or inexperience._]: #
@@ -76,6 +83,7 @@ Reviewers annotate their notes using the following legend:
     - [x] Changes are easy to reason about.
     - [x] Complex logic checks are extracted to variables.
     - [x] Symbols have meaningful names.
+
 - [x] **Tests:** No anomalies detected.
 
     [> 🏫 _If the diffs touch `if` statements, there should usually be an associated test._]: #
@@ -85,6 +93,7 @@ Reviewers annotate their notes using the following legend:
     - [x] Test specs are partitioned appropriately.
     - [x] Test spec descriptions are informative.
     - [x] Test spec descriptions are free of typos.
+
 - [x] **Documentation:** No anomalies detected.
 
     [> 💡 _Documentation can take form in descriptive naming, comments, helpdocs, test specs, and READMEs._]: #
