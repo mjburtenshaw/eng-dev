@@ -1,7 +1,12 @@
-[> 💡 Legend definitions.]: #
-[> 🔴 Major issues trigger a code review halt and status regression.]: #
-[> 🟡 Minor issues trigger discussion.]: #
-[> 🟢 Excellent work should be recognized and celebrated!]: #
+# Code Review Summary
+
+[> 💡 _Write a summary of your review here._]: #
+
+
+[> 💡 _Legend definitions._]: #
+[> 🔴 _Major issues trigger a code review halt and status regression._]: #
+[> 🟡 _Minor issues trigger discussion._]: #
+[> 🟢 _Excellent work should be recognized and celebrated!_]: #
 
 Reviewer notes are annotated using the following legend:
 > 🔴 Major issues  
