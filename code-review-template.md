@@ -1,9 +1,3 @@
-# Code Review Template
-  
-Authored by Malcolm Burtenshaw
-
----
-
 ## Change Request Health
 
 - [x] **Target:** The merge request targets the desired branch.
