@@ -2,7 +2,7 @@
 
 An accumulation of work on the philosophy of engineering development.
 
-[![version](https://img.shields.io/badge/version-v1.0.1-blue)](https://github.com/mjburtenshaw/eng-dev)
+[![version](https://img.shields.io/badge/version-v1.0.2-blue)](https://github.com/mjburtenshaw/eng-dev)
 
 #### Table of Contents
 
