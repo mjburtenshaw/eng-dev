@@ -1,6 +1,6 @@
 # Code Review
 
-### Table of Contents
+#### Table of Contents
 
 1. [Foreword](#foreword)
 
