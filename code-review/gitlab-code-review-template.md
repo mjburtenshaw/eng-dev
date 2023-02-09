@@ -1,4 +1,4 @@
-## Change Request Health
+## Merge Request Health
 
 - [x] **Target:** The merge request targets the desired branch.
 - [x] **Title:** The title is appropriate.
