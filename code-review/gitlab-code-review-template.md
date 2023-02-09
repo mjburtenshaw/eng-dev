@@ -25,15 +25,15 @@ Reviewer notes are annotated using the following legend:
     - [x] Links in general are formatted to be human readable.
     - [x] Checklist items are marked or provided an exception.
     - [x] All questions are answered appropriately.
-    - [x] **Validation:** Validation details are provided.
+- [x] **Validation:** Validation details are provided.
 
-        [> 🔰 A newly onboarded Junior Developer would need to ask little questions._]: #
+    [> 🔰 A newly onboarded Junior Developer would need to ask little questions._]: #
 
-        - [x] Little assumptions are made as to the knowledge of the reviewer. 
-        - [x] Details when to expect to observe desired behaviors.
-        - [x] Details when to expect to observe current behaviors.
-        - [x] Details the way the end-user would validate the solution.
-        - [x] For specific bugs, Details how to reproduce issues using the same data (or as close to it as possible) as production.
+    - [x] Little assumptions are made as to the knowledge of the reviewer. 
+    - [x] Details when to expect to observe desired behaviors.
+    - [x] Details when to expect to observe current behaviors.
+    - [x] Details the way the end-user would validate the solution.
+    - [x] For specific bugs, Details how to reproduce issues using the same data (or as close to it as possible) as production.
 - [x] **Metadata:** No anomalies detected.
     - [x] Assignee.
     - [x] Reviewer.
