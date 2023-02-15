@@ -23,3 +23,5 @@
 ### Validation
 
 [> ⭐️ _How can we prove the solution works?_]: #
+
+[> ✅ _I find it helpful to annotate expected behavior on validation success using an annotation like this._]: #
