@@ -2,7 +2,7 @@
 
 We intend these scripts to automate version incrementation for various files.
 
-This is useful in CI/CD and [Git Hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks).  
+This is useful in CI/CD.  
 If you use [Husky](https://typicode.github.io/husky/#/), you might want to [bypass your Husky Hooks](https://typicode.github.io/husky/#/?id=bypass-hooks) when using these scripts.
 
 #### Table of Contents
