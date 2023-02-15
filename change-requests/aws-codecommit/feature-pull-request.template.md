@@ -2,7 +2,7 @@
 
 ### Desired Behavior
 
-[👤 _Who is the user and what do they want to do?_]: #
+[👤 _Who is the user, and what do they want to do?_]: #
 
 
 ### Current Behavior
