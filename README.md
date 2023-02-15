@@ -6,7 +6,12 @@ An accumulation of work on the philosophy of engineering development.
 
 #### Table of Contents
 
-1. [Contributing](#contributing)
+1. [Setup](#setup)
+2. [Contributing](#contributing)
+
+## Setup
+
+If you have permission to push to the `main` branch for this repository, please add an execution of the [`increment-version`](./scripts/increment-version/README.md) script to your [pre-push Git Hook](https://git-scm.com/docs/githooks#_pre_push).
 
 ## Contributing
 
