@@ -2,7 +2,7 @@
 
 An accumulation of work on the philosophy of engineering career development.
 
-[![version](https://img.shields.io/badge/version-v1.1.5-blue)](https://github.com/mjburtenshaw/eng-dev)
+[![version](https://img.shields.io/badge/version-v1.2.0-blue)](https://github.com/mjburtenshaw/eng-dev)
 
 #### Table of Contents
 
