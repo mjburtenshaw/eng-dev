@@ -83,6 +83,7 @@ Reviewers annotate their notes using the following legend:
     - [x] Changes are easy to reason about.
     - [x] Complex logic checks are extracted to variables.
     - [x] Symbols have meaningful names.
+    - [x] Ignored linting rules are provided an exception.
 
 - [x] **Tests:** No anomalies detected.
 
