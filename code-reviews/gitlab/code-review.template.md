@@ -20,7 +20,7 @@ Reviewers annotate their notes using the following legend:
 - [x] **Template:** The template is appropriate, or an exception is provided.
 
 - [x] **Description:** The description is complete.
-    - [x] GitLab hooks are populated.
+    - [x] Hooks are populated.
     - [x] Applicable Tasks are linked.
     - [x] Links to Tasks use the Task Title as their text.
     - [x] Links, in general, are formatted to be human-readable.
