@@ -1,6 +1,6 @@
 # eng-dev
 
-An accumulation of work on the philosophy of engineering development.
+An accumulation of work on the philosophy of engineering career development.
 
 [![version](https://img.shields.io/badge/version-v1.1.4-blue)](https://github.com/mjburtenshaw/eng-dev)
 
