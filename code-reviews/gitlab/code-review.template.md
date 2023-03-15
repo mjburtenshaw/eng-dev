@@ -2,10 +2,14 @@
 
 [> 💡 _Write a summary of your review here._]: #
 
-[> 💡 _Legend definitions._]: #
+[> 🗺️ _Legend definitions._]: #
+[> 🤖 _Because these indicators are machine-readable, avoid using them to call out anomalies in the change request author's behavior._]: #
+[> 😀 _If you need to call out behavioral anomalies outside of the change request author's control, use different emoji._]: #
+
 [> 🔴 _Major issues trigger a code review halt and status regression._]: #
 [> 🟡 _Minor issues trigger discussion._]: #
 [> 🟢 _Excellent work should be recognized and celebrated!_]: #
+
 Reviewers annotate their notes using the following legend:  
 > 🔴 Major issues  
 > 🟡 Minor issues  
