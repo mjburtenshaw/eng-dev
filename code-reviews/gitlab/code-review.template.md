@@ -11,11 +11,11 @@
 [> 🟢 _Excellent work should be recognized and celebrated!_]: #
 
 Reviewers annotate their notes using the following legend:  
-> 🔴 Major issues  
-> 🟡 Minor issues  
-> 🟢 Excellent work  
+> 🔴 _Major issues_  
+> 🟡 _Minor issues_  
+> 🟢 _Excellent work_
 
-## Merge Request Health
+<details><summary><h2>Merge Request Health</h2></summary>
 
 - [x] **Target:** The merge request targets the desired branch.
 
@@ -67,8 +67,9 @@ Reviewers annotate their notes using the following legend:
 - [x] **Activity:** No anomalies detected.
     - [x] The merge request was created in draft status.
     - [x] The merge request was in draft status during subsequent pushes.
+</details>
 
-## Code Health
+<details><summary><h2>Code Health</h2></summary>
 
 - [x] **Commits**: No anomalies detected.
 
@@ -105,8 +106,9 @@ Reviewers annotate their notes using the following legend:
 
     - [x] Changes to business logic have associated documentation changes.
     - [x] Documentation is changed at an appropriate level of abstraction.
+</details>
 
-## Solution Behavior
+<details><summary><h2>Solution Behavior</h2></summary>
 
 [> 💡 _Trust, but verify. A recording may be informative, but it isn't always sufficient._]: #
 
@@ -117,3 +119,4 @@ Reviewers annotate their notes using the following legend:
 - [x] The solution produces the desired behavior.
 
     [> 🚨 _Paste unfulfilled requirements here._]: #
+</details>
