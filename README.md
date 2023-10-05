@@ -1,3 +1,7 @@
+> 🪦 This repository is deprecated in favor of [macpracs](https://github.com/mjburtenshaw/macpracs).
+>
+> 🍴 But feel free to fork this.
+
 # eng-dev
 
 An accumulation of work on the philosophy of engineering career development.
